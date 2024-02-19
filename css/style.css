@@ -87,7 +87,10 @@ ul {
 
   
 }
-.switcher{}
+.switcher{
+  padding-left: 10px;
+  padding-right: 10px;
+}
 .switcher-lang:hover {
   color: var(--av-blue);
 }
